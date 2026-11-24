@@ -1,0 +1,44 @@
+{
+ "name": "maine",
+ "format": "JMVM 4",
+ "group": 40338,
+ "bytes": 128918600,
+ "pieces": [
+  {
+   "file": "maine-1.jmv",
+   "bytes": 38286639,
+   "sha256": "bcd4dda18415b0d91d90903cc3e58237d0e6167def0cf67ed0d5be817ab99bd7",
+   "south": 45.08904,
+   "west": -71.14746,
+   "north": 47.5172,
+   "east": -68.90625
+  },
+  {
+   "file": "maine-2.jmv",
+   "bytes": 26647317,
+   "sha256": "e50002c6eb6939d02ce9c8efe14bfd21272820d4b564335a1bdd6d9a89048ac2",
+   "south": 45.08904,
+   "west": -68.90625,
+   "north": 47.39835,
+   "east": -67.0166
+  },
+  {
+   "file": "maine-3.jmv",
+   "bytes": 26638844,
+   "sha256": "cf65b27b33adf391f6ecfe4e7c83052e16ec067582504e9de29d4ffc31a389d4",
+   "south": 42.84375,
+   "west": -71.10352,
+   "north": 45.08904,
+   "east": -70.3125
+  },
+  {
+   "file": "maine-4.jmv",
+   "bytes": 37345800,
+   "sha256": "02517c83ef56ddd1df3d658e67bb0cc41c72b8772c677ceb1722d9f79b42b007",
+   "south": 42.94034,
+   "west": -70.3125,
+   "north": 45.08904,
+   "east": -66.79688
+  }
+ ]
+}
