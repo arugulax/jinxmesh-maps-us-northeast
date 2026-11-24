@@ -1,0 +1,26 @@
+{
+ "name": "vermont",
+ "format": "JMVM 4",
+ "group": 14102,
+ "bytes": 69478538,
+ "pieces": [
+  {
+   "file": "vermont-1.jmv",
+   "bytes": 32749816,
+   "sha256": "604a4b2add0e8459585892e675b4f4692458d7c7cd9b5fce3734942e3629089d",
+   "south": 44.08759,
+   "west": -73.47656,
+   "north": 45.058,
+   "east": -71.41113
+  },
+  {
+   "file": "vermont-2.jmv",
+   "bytes": 36728722,
+   "sha256": "fe6f8401899254b9209da7d08cc00b971d5d14cb8236df65c8d758ef6620b517",
+   "south": 42.68244,
+   "west": -73.52051,
+   "north": 44.08759,
+   "east": -71.93848
+  }
+ ]
+}
