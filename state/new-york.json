@@ -1,0 +1,80 @@
+{
+ "name": "new-york",
+ "format": "JMVM 4",
+ "group": 56624,
+ "bytes": 259654704,
+ "pieces": [
+  {
+   "file": "new-york-1.jmv",
+   "bytes": 31005248,
+   "sha256": "2483e6047e43c79fb6d0da7d48e174ee5b905f090f8804c795a1e27e6b79f8fb",
+   "south": 43.06889,
+   "west": -75.9375,
+   "north": 45.058,
+   "east": -74.53125
+  },
+  {
+   "file": "new-york-2.jmv",
+   "bytes": 32043310,
+   "sha256": "45357fb2d3f070ceff4005edd3c4a38782caaafcab4aa60d7bb7419ca387663e",
+   "south": 43.58039,
+   "west": -74.53125,
+   "north": 45.058,
+   "east": -73.16895
+  },
+  {
+   "file": "new-york-3.jmv",
+   "bytes": 31445635,
+   "sha256": "d68c207f688784292ceab78733538decbd159208540b5d8550e890ce5068a974",
+   "south": 41.93498,
+   "west": -77.34375,
+   "north": 44.40239,
+   "east": -75.9375
+  },
+  {
+   "file": "new-york-4.jmv",
+   "bytes": 37582882,
+   "sha256": "ab16bcfd53f57b159bf6b68ab38a592bf3d131f87458448c6e0fc1a551ff3506",
+   "south": 41.93498,
+   "west": -79.84863,
+   "north": 43.70759,
+   "east": -77.34375
+  },
+  {
+   "file": "new-york-5.jmv",
+   "bytes": 28633031,
+   "sha256": "9e365e4fe2078d43d5edd0c3b6b0cc4069164c3118e45e0c0ef5210d2c9279cb",
+   "south": 42.55308,
+   "west": -74.53125,
+   "north": 43.58039,
+   "east": -73.16895
+  },
+  {
+   "file": "new-york-6.jmv",
+   "bytes": 36554863,
+   "sha256": "73271419160fcb7dc61a044c2362c5ea00660cce7496c988117b12d6af99e9cf",
+   "south": 41.24477,
+   "west": -75.9375,
+   "north": 43.06889,
+   "east": -74.53125
+  },
+  {
+   "file": "new-york-7.jmv",
+   "bytes": 34313946,
+   "sha256": "20f499c6bb7ad7d4bdd90b0bcc154daee3de46e6281f2f65d47f2423ef97b6a4",
+   "south": 40.4135,
+   "west": -74.53125,
+   "north": 42.55308,
+   "east": -73.82812
+  },
+  {
+   "file": "new-york-8.jmv",
+   "bytes": 28075789,
+   "sha256": "e51dbdbca8587f944d566b08d19d60ebc29b278396019a2589db438e4d158efd",
+   "south": 40.38003,
+   "west": -73.82812,
+   "north": 42.55308,
+   "east": -71.58691
+  }
+ ]
+}
