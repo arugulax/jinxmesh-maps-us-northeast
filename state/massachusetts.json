@@ -1,0 +1,26 @@
+{
+ "name": "massachusetts",
+ "format": "JMVM 4",
+ "group": 54587,
+ "bytes": 59809793,
+ "pieces": [
+  {
+   "file": "massachusetts-1.jmv",
+   "bytes": 28934462,
+   "sha256": "b2f684e6dc073e7939f76f6d95e8a85a92cabf8d688901db1c32ed2b05bc7331",
+   "south": 41.93498,
+   "west": -73.56445,
+   "north": 42.77928,
+   "east": -71.71875
+  },
+  {
+   "file": "massachusetts-2.jmv",
+   "bytes": 30875331,
+   "sha256": "7f484e54a7595d0e0bdbea9b72d21878e8488fa305b466d82f6ca0365957a8b6",
+   "south": 41.01307,
+   "west": -71.71875,
+   "north": 42.94034,
+   "east": -69.65332
+  }
+ ]
+}
