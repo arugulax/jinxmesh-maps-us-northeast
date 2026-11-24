@@ -1,0 +1,17 @@
+{
+ "name": "connecticut",
+ "format": "JMVM 4",
+ "group": 0,
+ "bytes": 36231523,
+ "pieces": [
+  {
+   "file": "connecticut.jmv",
+   "bytes": 36231523,
+   "sha256": "66946e1587143e35f0881d1af07247d55954fac5e16d5cfad6cce31bd12d4ec0",
+   "south": 40.91351,
+   "west": -73.78418,
+   "north": 42.09822,
+   "east": -71.71875
+  }
+ ]
+}
