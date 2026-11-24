@@ -1,0 +1,17 @@
+{
+ "name": "rhode-island",
+ "format": "JMVM 4",
+ "group": 0,
+ "bytes": 8340589,
+ "pieces": [
+  {
+   "file": "rhode-island.jmv",
+   "bytes": 8340589,
+   "sha256": "437ec40b334ac032a1a1ac8e81f35eca56ae369315972461d0236d863c97fde6",
+   "south": 41.14557,
+   "west": -71.98242,
+   "north": 42.06561,
+   "east": -71.01562
+  }
+ ]
+}
