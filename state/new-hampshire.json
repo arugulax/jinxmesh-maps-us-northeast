@@ -1,0 +1,26 @@
+{
+ "name": "new-hampshire",
+ "format": "JMVM 4",
+ "group": 63627,
+ "bytes": 66468935,
+ "pieces": [
+  {
+   "file": "new-hampshire-1.jmv",
+   "bytes": 34870304,
+   "sha256": "39a367f3bd212bd9829f7019edab62693bcb6feefdaa0b03d3982cc6aa4ca16e",
+   "south": 43.58039,
+   "west": -72.46582,
+   "north": 45.36758,
+   "east": -70.88379
+  },
+  {
+   "file": "new-hampshire-2.jmv",
+   "bytes": 31598631,
+   "sha256": "11c6dbf6e25a41d2d88f193eb8b4e1bcc98c867b24ca5993b9b6c0d26d26dd84",
+   "south": 42.65012,
+   "west": -72.6416,
+   "north": 43.58039,
+   "east": -70.53223
+  }
+ ]
+}
