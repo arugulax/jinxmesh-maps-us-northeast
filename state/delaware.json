@@ -1,0 +1,17 @@
+{
+ "name": "delaware",
+ "format": "JMVM 4",
+ "group": 0,
+ "bytes": 7663077,
+ "pieces": [
+  {
+   "file": "delaware.jmv",
+   "bytes": 7663077,
+   "sha256": "360d733449638e704ba8373ed1e503a8a232facdf10d20a391cc303325e03dee",
+   "south": 38.41056,
+   "west": -75.84961,
+   "north": 39.90974,
+   "east": -74.92676
+  }
+ ]
+}
