@@ -1,0 +1,26 @@
+{
+ "name": "new-jersey",
+ "format": "JMVM 4",
+ "group": 53679,
+ "bytes": 49688958,
+ "pieces": [
+  {
+   "file": "new-jersey-1.jmv",
+   "bytes": 27231660,
+   "sha256": "bd7aa316d49e9ca8f8dd107b988dbee7a915ae020f3b50e11cc8d6f08e4e1964",
+   "south": 40.44695,
+   "west": -75.27832,
+   "north": 41.40978,
+   "east": -73.82812
+  },
+  {
+   "file": "new-jersey-2.jmv",
+   "bytes": 22457298,
+   "sha256": "2ca343330bda3c661dac466780e5af5c49a000fbf51f4d08544567bd55b2e8f5",
+   "south": 38.7198,
+   "west": -75.62988,
+   "north": 40.44695,
+   "east": -73.6084
+  }
+ ]
+}
