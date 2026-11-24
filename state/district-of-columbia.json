@@ -1,0 +1,17 @@
+{
+ "name": "district-of-columbia",
+ "format": "JMVM 4",
+ "group": 0,
+ "bytes": 3466203,
+ "pieces": [
+  {
+   "file": "district-of-columbia.jmv",
+   "bytes": 3466203,
+   "sha256": "88d564eed77c10783eb5eb35d65a6c46b0fbd54b8c2027adc1328120c281c647",
+   "south": 38.75408,
+   "west": -77.16797,
+   "north": 39.06185,
+   "east": -76.86035
+  }
+ ]
+}
