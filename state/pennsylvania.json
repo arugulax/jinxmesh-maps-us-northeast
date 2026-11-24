@@ -1,0 +1,98 @@
+{
+ "name": "pennsylvania",
+ "format": "JMVM 4",
+ "group": 30207,
+ "bytes": 308074957,
+ "pieces": [
+  {
+   "file": "pennsylvania-1.jmv",
+   "bytes": 35714610,
+   "sha256": "1cf1957b65978cf8021642f479e1746f152a6bfb9c21255b792fc1ceeb37285c",
+   "south": 40.44695,
+   "west": -80.5957,
+   "north": 42.55308,
+   "east": -79.45312
+  },
+  {
+   "file": "pennsylvania-2.jmv",
+   "bytes": 30813915,
+   "sha256": "d309dcd42c360ccf9f0ff0a66a6c4575c46b15755f19d5f27292e97e45ae7ed3",
+   "south": 40.9799,
+   "west": -79.45312,
+   "north": 42.06561,
+   "east": -78.04688
+  },
+  {
+   "file": "pennsylvania-3.jmv",
+   "bytes": 35003167,
+   "sha256": "89ba3f51b9e367f1ccec8fff8dad114b39c4ae0aff1bddb778b1f659a0933f03",
+   "south": 40.9799,
+   "west": -78.04688,
+   "north": 42.06561,
+   "east": -76.64062
+  },
+  {
+   "file": "pennsylvania-4.jmv",
+   "bytes": 37373546,
+   "sha256": "fb5d046f3e73e8692f40d82a0e0eb50837e5174fa92b96e1c26963000d55a486",
+   "south": 40.9799,
+   "west": -76.64062,
+   "north": 42.06561,
+   "east": -74.61914
+  },
+  {
+   "file": "pennsylvania-5.jmv",
+   "bytes": 19149590,
+   "sha256": "dc7918ea990097eb2a96a3f8ac81f3ce4ddb5d84497a8222fc5c533fe9e704f7",
+   "south": 40.44695,
+   "west": -79.45312,
+   "north": 40.9799,
+   "east": -78.04688
+  },
+  {
+   "file": "pennsylvania-6.jmv",
+   "bytes": 41211895,
+   "sha256": "4d4f28f3d23f26b95caa1873514b9db1694578d3c251979a807e54f5b998375a",
+   "south": 39.67337,
+   "west": -78.04688,
+   "north": 40.9799,
+   "east": -76.64062
+  },
+  {
+   "file": "pennsylvania-7.jmv",
+   "bytes": 22251646,
+   "sha256": "28ce4fc5a6130b5ff8c8adf4cc55d5674f9e146229ede2add063363fe8e67cb2",
+   "south": 39.67337,
+   "west": -76.64062,
+   "north": 40.9799,
+   "east": -75.9375
+  },
+  {
+   "file": "pennsylvania-8.jmv",
+   "bytes": 32155118,
+   "sha256": "84e11c082c4fde9e05566b3f8b0223b6a4d2daefff3cad3b56bc39a6994ced91",
+   "south": 39.60569,
+   "west": -75.9375,
+   "north": 40.9799,
+   "east": -74.66309
+  },
+  {
+   "file": "pennsylvania-9.jmv",
+   "bytes": 26769387,
+   "sha256": "1fa520f227c8122210e594807c43bcd28de4b6f95f33a7a3e26a4c6691efe0a6",
+   "south": 39.67337,
+   "west": -80.5957,
+   "north": 40.44695,
+   "east": -79.45312
+  },
+  {
+   "file": "pennsylvania-10.jmv",
+   "bytes": 27632083,
+   "sha256": "b117e5cfb8d2fb8a45ee38f1c2915e3e9e646d6964d8edce1c61b00c6475b997",
+   "south": 39.67337,
+   "west": -79.45312,
+   "north": 40.44695,
+   "east": -78.04688
+  }
+ ]
+}
