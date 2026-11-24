@@ -1,0 +1,35 @@
+{
+ "name": "maryland",
+ "format": "JMVM 4",
+ "group": 16964,
+ "bytes": 75150647,
+ "pieces": [
+  {
+   "file": "maryland-1.jmv",
+   "bytes": 23671134,
+   "sha256": "c3078f1060f839035ed6bca9e8d5d9cfe2b906d3eb1eac4921c97216fa30f83f",
+   "south": 38.30718,
+   "west": -79.54102,
+   "north": 39.77477,
+   "east": -77.34375
+  },
+  {
+   "file": "maryland-2.jmv",
+   "bytes": 28599212,
+   "sha256": "a35c9597c5a1d05ea4ead3cba59ef04544853f02d6b0c578a6ed53ffea7398df",
+   "south": 38.06539,
+   "west": -77.34375,
+   "north": 39.77477,
+   "east": -76.64062
+  },
+  {
+   "file": "maryland-3.jmv",
+   "bytes": 22880301,
+   "sha256": "a5c04a16571806fbaa61e1c10eee5a661385ec7c6c96570bd981febf702b4f86",
+   "south": 37.8228,
+   "west": -76.64062,
+   "north": 39.77477,
+   "east": -75.01465
+  }
+ ]
+}
